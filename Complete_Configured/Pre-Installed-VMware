@@ -1,10 +1,10 @@
-Download Lubuntu-32-bit-with-Pre-Installed-Hadoop from here:
+# Download Lubuntu-32-bit-with-Pre-Installed-Hadoop from here:
 
 https://mega.nz/#!J4lEkSQC!iAx-H0m0-OmW0u_mDGdY2ICJmqawQZsmRQAPf0B6Qls
 
 Unzip it.
 
-Download VMware Workstation Player 
+# Download VMware Workstation Player 
 https://www.vmware.com/products/workstation-player.html
 
 https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/14_0
@@ -15,11 +15,14 @@ Open the player , select open an existing VM
 
 Go to the folder of extract and select the only .vmx File
 
-Before you start edit the VM
+# Before you start edit the VM
 
 Remove Printer
 Allocate the amount of memory you need. I have given it 4GB because in 32bit guest you cannot exceed over 4GB
 Edit the address in the Hard Disk
 Remove CD Drive
 
-Install VMware Tools and Drivers.
+# Install VMware Tools and Drivers.
+
+#USERNAME: hadoop
+#Password: Fullerton1
